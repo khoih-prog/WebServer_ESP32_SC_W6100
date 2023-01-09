@@ -16,6 +16,7 @@
 
 * [Why do we need this WebServer_ESP32_SC_W6100 library](#why-do-we-need-this-WebServer_ESP32_SC_W6100-library)
   * [Features](#features)
+  * [Sibling libraries](#Sibling-libraries)
   * [Currently supported Boards](#currently-supported-boards)
 * [Changelog](changelog.md)
 * [Prerequisites](#prerequisites)
